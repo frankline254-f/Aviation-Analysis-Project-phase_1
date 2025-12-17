@@ -1,4 +1,6 @@
 # Aviation-Analysis-Project-phase_1
+![Image_alt](<img width="490" height="490" alt="image" src="https://github.com/user-attachments/assets/6aaa38f8-9493-4bac-9caf-fd68e2b4c6cb" />
+
 This project focuses on aviation accident date to uncover safety trends and risk factors. By analyzing accident severity, aircraft category, phase of flight and level of aircraft damage, it provides insight and recommendation to support safer aviation decisions.
 ## Overview
    The project focuses on anaylzing aviation accident data hence it helps a company to decide which aircraft is more cheaper and has a lower risk of fatal accident.The firm is venturing into aviation industry and therefore it requires insights of aviation data in order to make inform decision on which aircraft is best to invest at. 
