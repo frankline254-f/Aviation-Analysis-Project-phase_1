@@ -34,7 +34,7 @@ This project focuses on aviation accident date to uncover safety trends and risk
    ## 1. Accidents by Aircraft Manufacturer
 The bar chart depicts the number of accidents attributed to leading aircraft manufacturers.  
 Some manufacturers tend to have fewer accidents, indicating lower aircraft risk.
-
+![Image](https://github.com/user-attachments/assets/ae6b8c87-4a89-4063-89d0-9d0c7f463fae)
 ## 2. Fatal Accident by Aircraft Manufacturer
 The visualization shows a comparison of aircraft models based on the percentage of accidents in each model.  
 Some model of aircraft have a greatly reduced rate of fatal accident rates making them safer investment options for starting.
