@@ -41,7 +41,7 @@ Some model of aircraft have a greatly reduced rate of fatal accident rates makin
    
  ### 3. Aircraft Accidents Over Time
 A line chart representing the total number of accidents each year.Air safety has improved over time.
-
+![Image](https://github.com/user-attachments/assets/910500ea-cd90-43bf-85d9-8f6f4bf8aaec)
 ## Conclusion
     
  1. Model with low rates of fatal aircraft accidents should be the priority to address the issues regarding flight safety and liability risks.
