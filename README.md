@@ -17,7 +17,7 @@ This project focuses on aviation accident date to uncover safety trends and risk
    3.Which aircraft makers have the lowest accident rate?
     
  ## Data Understanding and Analysis
-    
+    <img width="375" height="340" alt="Image" src="https://github.com/user-attachments/assets/8831a124-cde5-46f5-84e9-48995d21c0a1" />
  ### Data Source 
    -Aviation accident data from 1962-2023
    -National Transportation Safety Board
